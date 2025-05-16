@@ -268,7 +268,8 @@ h1, h2, h3 {
 .process {
     padding: 5rem 5%;
     background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),
-                url('images/process-visual.jpeg') center/cover fixed;
+                url("images/process-visual.jpeg"
+      )  center/cover fixed;
     color: #fff;
 }
 
