@@ -1,0 +1,42 @@
+# 🌐 True Cargo – Export Company Landing Page
+
+## 🏢 About the Company
+
+**True Cargo** is a globally reputed export company known for delivering excellent service and maintaining strong relationships with clients across the world. The company stands out in the logistics industry for its reliability, speed, and commitment to customer satisfaction.
+
+## 💻 About This Project
+
+This is a professional landing page I designed and developed for **True Cargo** to showcase their global presence and services. The website reflects the company's identity and values through a clean and modern design.
+
+### 🔧 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+
+### 📱 Features
+
+- Responsive design for all devices
+- Clean and user-friendly interface
+- Highlight of company services and global reputation
+- Smooth scrolling and basic interactivity
+
+## 🙋‍♂️ Developer
+
+This website was built by [MOHAMED IDREES] as a freelance project for **True Cargo**.  
+It represents my approach to clean front-end design and client-focused web development.
+
+## 🌍 Live Demo
+
+🔗 [View Live Website](https://true-cargo.netlify.app/)  
+
+
+## 📬 Contact Me
+
+If you're interested in working together or have any questions:
+
+- Email: idreesfreelancer07@gmail.com
+
+---
+
+Thank you for checking out the project!
